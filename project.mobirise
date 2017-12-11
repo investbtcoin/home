@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Invest btc",
-    "currentPage": ".com",
+    "currentPage": "com",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3625,7 +3625,7 @@
         }
       ]
     },
-    ".com": {
+    "com": {
       "settings": {
         "title": "invest btc",
         "meta_descr": "we help invest your bitcoin by minning....",
